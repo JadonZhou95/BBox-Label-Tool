@@ -1,3 +1,22 @@
+### Forked from [puzzledqs/BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)
+## Improvements
+1. Add multi-class support 
+2. Change some of the color-candidates for better display
+3. Fix the 'Example' filepath for convenience
+4. Expend the image format to _.jpeg_, _.jpg_ and _.JPG_
+5. Add the resize support if the image is too big to be displayed
+
+## New Usage
+### For multi-class task, modify 'class.txt' with your own class-candidates and before labeling bbox, choose the 'Current Class' in the Combobox and make sure you click 'ComfirmClass' button.
+
+### The remaining usage is the same as the origin one.
+
+------------------------------------
+
+**Contact info**: jxgu1016@gmail.com
+
+------------------------------------
+
 BBox-Label-Tool
 ===============
 
